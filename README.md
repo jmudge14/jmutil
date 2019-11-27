@@ -1,9 +1,9 @@
 # jmutil
-### _Your Name <your.name@example.com>_
+### _Jack Mudge <jmudge14@gmail.com>_
 
-This is a project to do ... something.
+This is a small utilities package written by and for Jack Mudge. While you're welcome to browse it, it's not meant to be significantly used by anyone else.
 
 ## License
 
-Specify license here
+Public domain
 
